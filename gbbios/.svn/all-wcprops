@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/26/gbbios
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/26/gbbios/.project
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/26/gbbios/main.c
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/26/gbbios/.cproject
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/22/gbbios/Makefile
+END
